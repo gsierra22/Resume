@@ -1,17 +1,21 @@
 body {
   background-color:pink; 
+  font-family: Times New Roman;
+  margin: 15% 25%
 }
 
 h2 {
   background-color: yellow;
   font-size: 28px;
-  border: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
   text-align: center;
 }
 
 h3 {
   background-color: yellow;
-  border: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
   text-align: center;
   }
 
